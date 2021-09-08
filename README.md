@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working at Albert Heijn Technology on our API Gateway
+🔭 I’m currently working at DPG Media as a Backend Software Engineer for the Selectives Area.
 
 💬 Ask me about new languages, innovative ideas and projects
 
