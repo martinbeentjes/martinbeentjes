@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working at DPG Media as a Backend Software Engineer for the Selectives Area.
+🔭 I’m currently working at JOIN Cycling as a Software Engineer all over our tech stack.
 
 💬 Ask me about new languages, innovative ideas and projects
 
