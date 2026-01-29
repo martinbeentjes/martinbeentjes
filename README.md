@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working at JOIN Cycling as a Software Engineer all over our tech stack.
+🔭 I’m currently working at Albert Heijn as a Software Engineer in the domain of stock and inventory management.
 
 💬 Ask me about new languages, innovative ideas and projects
 
